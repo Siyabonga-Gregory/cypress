@@ -22,7 +22,7 @@
   "dependencies": {
     "bluebird": "3.7.1",
     "debug": "^4.3.2",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@babel/core": "^7.0.1",
