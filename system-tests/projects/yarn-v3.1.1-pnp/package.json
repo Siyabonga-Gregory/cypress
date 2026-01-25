@@ -2,7 +2,7 @@
   "name": "yarn-v3.1.1-pnp",
   "version": "1.0.0",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "typescript": "^4.2.4"
